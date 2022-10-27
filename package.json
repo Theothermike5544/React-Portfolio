@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theothermike5544/React-Portfolio-Demo.git"
+  },
+  "author": "Michael Bishop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theothermike5544/React-Portfolio-Demo/issues"
+  },
+  "homepage": "https://github.com/Theothermike5544/React-Portfolio-Demo#readme"
+}
