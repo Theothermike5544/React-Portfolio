@@ -1,3 +1,4 @@
+import './App.css';
 import React from "react";
 import AboutMe from "./components/About";
 import Contact from "./components/Contact";
