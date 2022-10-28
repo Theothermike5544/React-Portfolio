@@ -33,6 +33,8 @@ inside the root directory in your terminal of choice. This will start up the Rea
 ## Links
  
   * Github Repository URL: (https://github.com/Theothermike5544/React-Portfolio)
+  * Resume URL: (https://docs.google.com/document/d/1Kdxx3E43YDycxS4ygGs1xf3JiDa2dBfV/edit#heading=h.gjdgxs)
+  * Deployed URL: (https://rocky-ocean-06409.herokuapp.com/)
   
 ## Contributions
 
