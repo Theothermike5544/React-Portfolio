@@ -1,7 +1,7 @@
 # Module 20: React-Portfolio
 
 ## React-Portfolio
-![React.png](../assets/React.png)
+![](React.png)
 ## Description
 As an aspiring web-developer / programmer / dev. It is everyone's dream to land a dev job coming out of a bootcamp. Thanks to this bootcamp, that dream has already become a reality. I have landed a position as a back-end automation tester / jr dev for a local cyber-security company.
 
