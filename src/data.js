@@ -8,12 +8,12 @@ export const projects = [
       link: "https://theothermike5544.github.io/run-buddy/",
     },
     {
-      title: "Horiseon",
-      subtitle: "HTML & CSS",
+      title: "ApeClub",
+      subtitle: "FullStack",
       description:
-        "Social Media Company's landing page",
-      image: "./assets/Horiseon.png",
-      link: "https://theothermike5544.github.io/Horiseon-A-Better-Brand/",
+        "Fitness App for Workout Program",
+      image: "./assets/Project3.png",
+      link: "https://mysterious-fjord-50002.herokuapp.com/",
     },
     {
       title: "Find-A-Story",
